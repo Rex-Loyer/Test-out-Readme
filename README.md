@@ -8,7 +8,7 @@
 
 Looking to learn a language? Studies show that the best way to learn a language is to have conversations daily. Pangaea facilitates those conversations for you.  Our web application allows users to communicate with native speakers and schedule a meet up, or just chat in real time
 
-Visit our website here:  http://pangea-env.eba-8xp63xtj.us-east-2.elasticbeanstalk.com/
+Visit our website here: [www.pangaea.com](http://pangea-env.eba-8xp63xtj.us-east-2.elasticbeanstalk.com/)
 
 Our team of software engineers was approached by a client who asked us to build what would become the Pangaea web application. We were given feedback throughout and two weeks to initially deploy the application.
 
